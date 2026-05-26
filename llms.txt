@@ -1,0 +1,11 @@
+# IntentKit Agent Cluster
+
+IntentKit Agent Cluster is a SaaS workspace for IntentKit.
+
+Website: https://intentkitcluster.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: IntentKit
+Type: SaaS
+Default plan: growth
+
+Public boundary: docs-only repository; no production source code or secrets.
